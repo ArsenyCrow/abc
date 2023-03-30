@@ -12,6 +12,8 @@
         android:text="@string/the_list_will_be_here"
         android:textSize="20sp"
         android:padding="16dp"
+
+
        />
 
 </FrameLayout>
